@@ -1,0 +1,1 @@
+dll放在和工程.exe同文件夹下即可，本目录下的文件为release版，注意在vs下切换至release模式。
