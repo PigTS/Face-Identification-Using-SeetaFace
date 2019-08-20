@@ -21,7 +21,7 @@
 
 &#160; &#160; &#160; &#160;以明星人脸数据库做示例，显示和摄像头捕捉到的人脸最像的三个明星，可以自己添加人脸放进images中做人脸识别，摄像头实时识别示例如下图：
 
-![image](https://github.com/HuiZhou-xmu/Face-Identification-Using-SeetaFace/raw/master/example/seeta_face_demo.png)
+![image](https://github.com/PigTS/Face-Identification-Using-SeetaFace/raw/master/example/seeta_face_demo.png)
 
 &#160; &#160; &#160; &#160;最左边的是摄像头实时捕捉画面，右边依次是和摄像头检测到的人脸相似性值排前三的明星，库中没有本人的照片，最像的明星相似性值在0.5+。
 
